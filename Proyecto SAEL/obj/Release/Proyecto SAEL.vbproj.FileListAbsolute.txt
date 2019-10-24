@@ -1,0 +1,18 @@
+C:\Users\Miguel\Documents\Proyectos\Visual Basic.Net\Proyecto SAEL\Proyecto SAEL\bin\Release\Base de Datos\DATABASE.mdf
+C:\Users\Miguel\Documents\Proyectos\Visual Basic.Net\Proyecto SAEL\Proyecto SAEL\bin\Release\Base de Datos\DATABASE_log.ldf
+C:\Users\Miguel\Documents\Proyectos\Visual Basic.Net\Proyecto SAEL\Proyecto SAEL\bin\Release\Base de Datos\INASISTENCIAS.mdf
+C:\Users\Miguel\Documents\Proyectos\Visual Basic.Net\Proyecto SAEL\Proyecto SAEL\bin\Release\Base de Datos\INASISTENCIAS_log.ldf
+C:\Users\Miguel\Documents\Proyectos\Visual Basic.Net\Proyecto SAEL\Proyecto SAEL\bin\Release\Proyecto SAEL.exe.config
+C:\Users\Miguel\Documents\Proyectos\Visual Basic.Net\Proyecto SAEL\Proyecto SAEL\bin\Release\Proyecto SAEL.exe
+C:\Users\Miguel\Documents\Proyectos\Visual Basic.Net\Proyecto SAEL\Proyecto SAEL\bin\Release\Proyecto SAEL.pdb
+C:\Users\Miguel\Documents\Proyectos\Visual Basic.Net\Proyecto SAEL\Proyecto SAEL\bin\Release\Proyecto SAEL.xml
+C:\Users\Miguel\Documents\Proyectos\Visual Basic.Net\Proyecto SAEL\Proyecto SAEL\obj\Release\Proyecto_SAEL.Resources.resources
+C:\Users\Miguel\Documents\Proyectos\Visual Basic.Net\Proyecto SAEL\Proyecto SAEL\obj\Release\Proyecto_SAEL.Inicio.resources
+C:\Users\Miguel\Documents\Proyectos\Visual Basic.Net\Proyecto SAEL\Proyecto SAEL\obj\Release\Proyecto_SAEL.Inasistencias.resources
+C:\Users\Miguel\Documents\Proyectos\Visual Basic.Net\Proyecto SAEL\Proyecto SAEL\obj\Release\Proyecto_SAEL.Presentación.resources
+C:\Users\Miguel\Documents\Proyectos\Visual Basic.Net\Proyecto SAEL\Proyecto SAEL\obj\Release\Proyecto SAEL.vbproj.GenerateResource.cache
+C:\Users\Miguel\Documents\Proyectos\Visual Basic.Net\Proyecto SAEL\Proyecto SAEL\obj\Release\Proyecto SAEL.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\Proyectos\Visual Basic.Net\Proyecto SAEL\Proyecto SAEL\obj\Release\Proyecto SAEL.exe
+C:\Users\Miguel\Documents\Proyectos\Visual Basic.Net\Proyecto SAEL\Proyecto SAEL\obj\Release\Proyecto SAEL.xml
+C:\Users\Miguel\Documents\Proyectos\Visual Basic.Net\Proyecto SAEL\Proyecto SAEL\obj\Release\Proyecto SAEL.pdb
+C:\Users\Miguel\Documents\Proyectos\Visual Basic.Net\Proyecto SAEL\Proyecto SAEL\obj\Release\Proyecto SAEL.vbprojAssemblyReference.cache
